@@ -1,0 +1,12 @@
+gym
+numpy
+pandas
+yfinance
+discord.py
+stable-baselines3
+gym-anytrading
+ta-lib
+textblob
+scikit-learn
+MetaTrader5
+requests
